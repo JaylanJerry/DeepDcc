@@ -21,7 +21,7 @@ DeepDcc 的目标，是把资料理解、蓝图规划、正文生成、公式入
 - 问题反馈：<https://deepdcc-pro.cn/feedback.html>
 - 公开讨论：<https://github.com/JaylanJerry/DeepDcc/discussions>
 
-## 它解决什么问题
+## 为什么需要它
 
 普通 AI 写作工具的问题，不是能不能生成，而是正式交付前仍然隔着一大段返工链：
 
@@ -43,6 +43,12 @@ DeepDcc 的设计目标，就是减少“生成结果”和“正式交付”之
 | 预览关系 | 预览常是附属功能 | 预览是交付前核对环节 |
 | 导出目标 | 复制粘贴为主 | 面向 Word 等正式交付 |
 | 失败处理 | 经常继续假装成功 | 更强调失败可见与中止 |
+
+## 先看 3 个关键点
+
+- 它更像“文档生产工作台”，而不是聊天窗口
+- 它强调“蓝图 -> 正文 -> 预览 -> 导出”的连续工作流
+- 它更在意最终能不能交稿，而不是只看回答顺不顺
 
 ## 核心特点
 
@@ -91,6 +97,13 @@ flowchart LR
 - 只看聊天窗口，不关心正式导出链路的用户
 - 当前就需要跨平台公开客户端的用户
 
+## 如果你第一次了解 DeepDcc，推荐这样看
+
+1. 先读 [产品总览](docs/product-overview.md)
+2. 再看 [特色功能总览](docs/feature-map.md)
+3. 然后看 [工作流程](docs/workflow.md) 和 [用户路径说明](docs/user-journey.md)
+4. 最后按需看 [使用场景](docs/use-cases.md) 与 [导出结果导向](docs/export-orientation.md)
+
 ## 产品画面
 
 ### 1. 工作台首页
@@ -132,8 +145,6 @@ flowchart LR
 
 ## 文档导航
 
-- [文档中心](docs/README.md)
-- [产品总览](docs/product-overview.md)
 - [文档中心](docs/README.md)
 - [产品总览](docs/product-overview.md)
 - [特色功能总览](docs/feature-map.md)
