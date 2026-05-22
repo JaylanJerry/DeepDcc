@@ -134,10 +134,15 @@ flowchart LR
 
 - [文档中心](docs/README.md)
 - [产品总览](docs/product-overview.md)
+- [文档中心](docs/README.md)
+- [产品总览](docs/product-overview.md)
+- [特色功能总览](docs/feature-map.md)
 - [功能详解](docs/features.md)
 - [工作流程](docs/workflow.md)
+- [用户路径说明](docs/user-journey.md)
 - [示例与适用场景](docs/examples.md)
 - [使用场景](docs/use-cases.md)
+- [导出结果导向](docs/export-orientation.md)
 - [常见问题](docs/faq.md)
 - [更新日志与版本入口](docs/changelog-links.md)
 
@@ -156,4 +161,5 @@ flowchart LR
 除非你获得维护者的明确授权，否则本仓库中的截图、文案、示例资料和下载入口，不代表你获得对产品源码、安装包或官方分发渠道的再发布权利。
 
 详细说明见 [NOTICE.md](NOTICE.md)。
+
 
